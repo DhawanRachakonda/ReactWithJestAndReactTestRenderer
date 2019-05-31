@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tests snapshot for TagsList checks the generated shapshot tree 1`] = `
+<div>
+  <code>
+    python
+  </code>
+  <code>
+    ruby
+  </code>
+  <code>
+    java
+  </code>
+</div>
+`;

@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Question Detail Component The display element 1`] = `
+<div>
+  <h3
+    className="mb-2"
+  >
+    Hooks
+  </h3>
+  <div>
+    <div
+      className="mb-3"
+    >
+      <div>
+        <code>
+          React
+        </code>
+      </div>
+    </div>
+    <div>
+      <p>
+        What are hooks in React
+      </p>
+    </div>
+    <div>
+      2
+       Answers
+    </div>
+  </div>
+</div>
+`;
